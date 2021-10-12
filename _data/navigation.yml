@@ -6,5 +6,7 @@ main:
     url: /about/
   - title: "💭 Categories"
     url: /categories/
+  - title: "🔬 Research"
+    url: /research/
   - title: "📄 Projects"
     url: /projects/
