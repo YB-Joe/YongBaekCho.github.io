@@ -21,7 +21,7 @@ Project link[[Pacman AI with search altorithms]](https://github.com/YongBaekCho/
 
 ### University of Arizona Class Scheduling
 
-Project link: [[University management]](https://github.com/YongBaekCho/class-scheduling/tree/master).
+Project link: [[University management]](https://github.com/YB-Joe/Data_Science).
 
 * Analyzed U of A class scheduling data and RCM data over 10 years.
 * Identified problems & suggested solutions in school's management to staff and program director who work at registarar office.
@@ -29,7 +29,7 @@ Project link: [[University management]](https://github.com/YongBaekCho/class-sch
 * (The goal of RCM is to provide an incentives-based transparent budget model for the University of Arizona.)
 
 ### Decision Tree
-Project link: [[Decision Tree(Car Temperature)]](https://github.com/YongBaekCho/decisiontrees).
+Project link: [[Decision Tree(Car Temperature)]].
 
 * Used GraphViz to test and visualize 3 different decision trees and plotted 3 different probability matrixes.
 * Collected vehicle temperature data which parked on campus garage and lot.
@@ -37,20 +37,20 @@ Project link: [[Decision Tree(Car Temperature)]](https://github.com/YongBaekCho/
 
 ### U.S. Insurance data(from Kaggle) analysis
 
-Project link: [[US Insurance kaggle data]](https://github.com/YongBaekCho/insurance).
+Project link: [[US Insurance kaggle data]](https://github.com/YB-Joe/Data_Science).
 
 * Analyzed health state for Insurance subscribers by Age, gender, and Residential Area
 
 ### arctic-sea-ice-extent-visualization
 
-Project link: [[Data Visualization for arctic-sea-ice-extent]](https://github.com/YongBaekCho/arctic-sea-ice-extent-visualization).
-<br>Project link: [[Data Visualization for arctic-sea-ice-extent-2]](https://github.com/YongBaekCho/arctic-sea-ice-extent-visualization-2).
+Project link: [[Data Visualization for arctic-sea-ice-extent]](https://github.com/YB-Joe/Data_Science).
+<br>Project link: [[Data Visualization for arctic-sea-ice-extent-2]](https://github.com/YB-Joe/Data_Science).
 
 * Analyzed the Arctic-sea-ice-extent data and used my own analysis to predict the date the ice will disappear altogether.
 
 ### Text Mining
 
-Project link: [[Text-mining]](https://github.com/YongBaekCho/textmining).
+Project link: [[Text-mining]](https://github.com/YB-Joe/Data_Science).
 * Computed cosine similarity along with the bag-of-words approach to measure the similarity between paris of documents
 
 ### Statistical Machine Learning
