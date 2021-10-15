@@ -5,6 +5,10 @@ toc_sticky: true
 toc_ads : true
 layout: single
 ---
+## Computer Vision
+
+Project link[[Deep Hypersphere Feature Embedding based Knowledge Distillation]](https://github.com/YB-Joe/Computer_Vision)
+
 ## AI 
 
 ### Pacman AI and Logic Wumpus
