@@ -275,5 +275,6 @@ defaults:
       author_profile: true
       read_time: true
       comments: # true
+      classes: wide
       share: true
       related: true
