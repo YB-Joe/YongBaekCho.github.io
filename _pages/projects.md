@@ -10,7 +10,7 @@ classes: wide
 
 Project link[[Deep Hypersphere Feature Embedding based Knowledge Distillation]](https://github.com/YB-Joe/Computer_Vision)
 
-<b>Purpose :</b> To develop a light weight but also an efficient model.
+<b>Purpose :</b> To develop a light weight but also an efficient model.</b> <br>
 <b>Knowledge Distillation : One of the methods of model compression, proposed to overcome the issuses. Previously, most of the works concentrated on enhancing the performance by increasing the model size. On the other hand, such an improvement caused some intrinsic issues, such as longer computation time and resource consumption. </b> <br>
 <br>
 Introduced hypersphere based knowledge distillation, a novel knowledge distillation that uses angular margin with attentive features for training of a student network with a trained teacher network. <br>
