@@ -6,7 +6,7 @@ toc_ads : true
 layout: single
 class: wide
 ---
-## Before I start
+## CV & Github
 
 <div><a href="https://drive.google.com/file/d/1799vW2XL8HfYJ813D4FA1Eyaokt86WpM/view?usp=sharing">CV</a>😃</div>
 
