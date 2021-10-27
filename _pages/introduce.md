@@ -14,7 +14,7 @@ classes: wide
 
 ## YongBaek Cho (Joe)
 
-I am a M.S. Student in Robotics and Autonomous System(Artificial Intelligence) at Arizona State University.
+I am a M.S. Student in Computer Science(Robotics and Artificial Intelligence) at Arizona State University.
 
 Email: ycho56@asu.edu 
 <br>Personal Email: ybcho1087@gmail.com 
