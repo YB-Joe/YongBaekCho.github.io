@@ -4,11 +4,13 @@ permalink: /introduce/
 toc_sticky: true
 toc_ads : true
 layout: single
-class: wide
+classes: wide
 ---
 ## CV & Github
 
 <div><a href="https://drive.google.com/file/d/1799vW2XL8HfYJ813D4FA1Eyaokt86WpM/view?usp=sharing">CV</a>😃</div>
+
+<div><a href="https://github.com/YB-Joe">Github</a>😃</div>
 
 
 ## YongBaek Cho (Joe)
