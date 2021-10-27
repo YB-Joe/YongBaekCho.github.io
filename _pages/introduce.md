@@ -7,7 +7,7 @@ layout: single
 ---
 ## Before I start
 
-<div>This is my summary of CV/Resume. If you want to see it with more details & well-organized version, please contact me via email.😃</div>
+<div>😃</div>
 
 
 ## YongBaek Cho (Joe)
