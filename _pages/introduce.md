@@ -81,11 +81,11 @@ MY goal is to enhance the symbiotic relationship between Human and Machine. I am
 
 
 ## Technical Skills
-Languages : English(Fluent), Korean(Native), Japanese(Basic).
-Programming Languages: Python, Java, MATLAB, JavaScript, HTML
-Machine/Deep Learning: PyTorch, TensorFlow, Keras, OpenCV
-Data Science: R, Pandas, Numpy, Scikit-Learn, MYSQL, Scikit-learn, Numpy, Scipy
-Other: Git, Latex, Microsoft Office, Simulink
+Languages : English(Fluent), Korean(Native), Japanese(Basic) <br>
+Programming Languages: Python, Java, MATLAB, C++, JavaScript  <br>
+Machine/Deep Learning: PyTorch, TensorFlow, Keras, OpenCV <br>
+Data Science: R, Pandas, Numpy, Scikit-Learn, MYSQL, Hadoop <br>
+Other: Git, Latex, Microsoft Office, Simulink <br>
 
 
 
