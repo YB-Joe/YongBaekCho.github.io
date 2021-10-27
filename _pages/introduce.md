@@ -8,7 +8,7 @@ classes: wide
 ---
 ## CV & Github
 
-<div><a href="https://drive.google.com/file/d/1799vW2XL8HfYJ813D4FA1Eyaokt86WpM/view?usp=sharing">CV</a>😃</div> <br>
+<div><a href="https://drive.google.com/file/d/1799vW2XL8HfYJ813D4FA1Eyaokt86WpM/view?usp=sharing">Resume</a>😃</div> <br>
 <div><a href="https://github.com/YB-Joe">Github</a>😃</div>
 
 
