@@ -7,7 +7,7 @@ layout: single
 ---
 ## Before I start
 
-<div>😃</div>
+<div><a href="https://drive.google.com/file/d/1799vW2XL8HfYJ813D4FA1Eyaokt86WpM/view?usp=sharing">CV</a>😃</div>
 
 
 ## YongBaek Cho (Joe)
