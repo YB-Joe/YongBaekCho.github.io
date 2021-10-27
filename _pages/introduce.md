@@ -4,6 +4,7 @@ permalink: /introduce/
 toc_sticky: true
 toc_ads : true
 layout: single
+class: wide
 ---
 ## Before I start
 
