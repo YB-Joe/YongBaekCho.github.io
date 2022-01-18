@@ -111,9 +111,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/YB-Joe"
-    - label: "Instagram"
+    - label: "Google Scholar"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://scholar.google.com/citations?user=AGzdZOQAAAAJ&hl=en&oi=sra"
 
 # Site Footer
 footer:
