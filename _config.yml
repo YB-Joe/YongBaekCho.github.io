@@ -112,7 +112,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/YB-Joe"
     - label: "Google Scholar"
-      icon: "fab fa-fw fa-instagram"
+      # icon: "fab fa-fw fa-instagram"
       url: "https://scholar.google.com/citations?user=AGzdZOQAAAAJ&hl=en&oi=sra"
 
 # Site Footer
