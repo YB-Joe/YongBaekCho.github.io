@@ -14,28 +14,28 @@ classes: wide
 
 ## YongBaek Cho (Joe)
 
-I am a M.S. Student in Computer Science(Robotics and Artificial Intelligence) at Arizona State University.
+I am a Software Engineer working in the Data team at Linqia.
+ 
+I earned my Master's degree in Computer Science(Robotics and Artificial Intelligence) at Arizona State University.
 
 Email: ycho56@asu.edu 
 <br>Personal Email: ybcho1087@gmail.com 
 
-
-
 ## What do I do for fun?
 
-Soccer, Travel, Netflix & chill, Chess, video games, Baseball
+Tennis!! , kicking it on the soccer field, Traveling, chilling with Netflix, strategizing epic chess moves, Video games, or watching baseball 
 
 ## Interests
 
 Computer Vision, Reinforcement Learning, Mahcine / Deep Learning, Robotics & NEW Challenges!
 
-How to design novel Deep Learning Algorithms that interact in various ways with Computer vision. 
+How to design and implement novel Software products and Algorithms
 AND
-How the intelligent agents learn and gain high-level of human understanding from images and video data and what representation is best for the target?
+What methods do intelligent agents employ to acquire a profound comprehension of test,images and video data, and which representation proves most effective for achieving this goal?
 
 ## My goal with AI
 
-MY goal is to enhance the symbiotic relationship between Human and Machine. I am interested in the concerns and efforts of how the application of artificial intelligence technology in various fields can bring a positive direction to the development of human civilization.
+My objective is to foster a harmonious synergy between humans and machines. I am deeply intrigued by the challenges and endeavors involved in leveraging artificial intelligence technology across diverse domains to steer human civilization towards a positive trajectory. Additionally, I am passionate about designing resilient and dependable software products.
 
 ## Education
 
