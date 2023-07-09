@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "sunrise" #"dark", "air", "aqua", "contrast", "dark",
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Joe's Blog "
+title                    : "Yongbaek's Blog "
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "YongBaek Cho(Joe)"
