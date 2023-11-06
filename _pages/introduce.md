@@ -18,8 +18,7 @@ I am a Software Engineer working in the Data team at Linqia.
  
 I earned my Master's degree in Computer Science(Robotics and Artificial Intelligence) at Arizona State University.
 
-Email: ycho56@asu.edu 
-<br>Personal Email: ybcho1087@gmail.com 
+<br> Email: ybcho1087@gmail.com 
 
 ## What do I do for fun?
 
