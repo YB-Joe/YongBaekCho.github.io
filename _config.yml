@@ -98,8 +98,8 @@ author:
   name             : "YongBaek Cho(Joe)"
   avatar           : "/assets/css/me.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Software engineer at Linqia, M.S. Computer Science(Robotics and Artificial Intelligence), Arizona State University  ✉️ ycho56 [At] asu [Dot] edu"
-  location         : "Tempe, AZ"
-  email            : "ycho56@asu.edu"
+  location         : "San Francisco, CA"
+  email            : "ybcho1087@gmail.com"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
